@@ -100,7 +100,12 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-
+.vscode/Ü
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+API/appsettings.json
 # Chutzpah Test files
 _Chutzpah*
 
